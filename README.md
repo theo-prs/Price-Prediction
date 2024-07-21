@@ -18,7 +18,7 @@ Python 3.7 or higher
 #Installation
 
 1. Clone this repository:
-Git clone 
+Git clone https://github.com/theo-prs/Price-Prediction.git
 
 2. Navigate to the project directory:
 cd project
